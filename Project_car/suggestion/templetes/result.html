@@ -1,0 +1,87 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Car Suggestion</title>
+</head>
+<body>
+
+    <style>
+
+        body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #1d2671, #c33764);
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; /* Align content at the top */
+            min-height: 80vh; /* Ensure the body has a minimum height of the viewport */
+            padding: 20px; /* Add padding around the content */
+            color: #fff;
+            overflow-x: hidden; /* Prevent horizontal scroll, but allow vertical scroll */
+          }
+
+       
+        h1, strong {
+            font-size: 35px;
+            color: red;
+            -webkit-text-stroke: 1px black;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+            font-family: Arial, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+    
+        #hi {
+            background: linear-gradient(90deg, #ff512f, #dd2476);
+            border: none;
+            color: white;
+            padding: 14px 40px;
+            text-align: center;
+            font-size: 15px;
+            cursor: pointer;
+            border-radius: 50px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease-in-out;
+            font-family: 'Arial', sans-serif;
+            letter-spacing: 1px;
+            position: absolute;
+            top: 90%;
+        }
+
+        #hi:hover {
+            background: linear-gradient(90deg, #0400ff, #ff0000);
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Active button click effect */
+        #hi:active {
+            transform: translateY(2px);
+            box-shadow: 0 2px 10px rgb(9, 0, 0);
+        }
+
+        div {
+            display: grid;
+            justify-items: center;
+            position: absolute;
+            top: 20%;   
+        }
+
+
+    </style>
+   
+    {% if prediction %}
+    <div>
+        <h1>🚗 Prediction 🚗</h1>
+        <p>The car suggestion is:</p>
+        <strong>{{ prediction }}</strong>   
+    </div>
+    {% endif %}
+    <button id="hi" onclick="window.location.href = '/';">reset</button>
+    
+</body>
+</html>
