@@ -1,0 +1,77 @@
+CarModel,BodyType,Manufacturer,FuelType,SafetyRating,Price,Budget,DesiredFeatures,Age,FamilySize,Purchased
+Sonet,SUV,Kia,Diesel,4,1050000,1089469,"Infotainment, Rear Camera",35,6,1
+Seltos,SUV,Kia,Diesel,5,1200000,1393898,"Sunroof, Infotainment",37,4,1
+XUV700,SUV,Mahindra,Diesel,5,2300000,2737140,"ADAS, Sunroof",37,7,1
+City,Sedan,Honda,Petrol,5,1200000,1073712,"Sunroof, ABS",37,4,1
+Kwid,Hatchback,Renault,Petrol,3,450000,405385,ABS,31,2,0
+Verna,Sedan,Hyundai,Petrol,5,1300000,1328382,"Infotainment, Sunroof",36,5,0
+Glanza,Hatchback,Toyota,Petrol,5,750000,867308,ABS,32,4,0
+Ertiga,MPV,Maruti,CNG,4,1100000,979804,"7-Seater, Infotainment",41,6,0
+i20,Hatchback,Hyundai,Petrol,5,850000,761254,Infotainment,27,3,0
+Swift,Hatchback,Maruti,Petrol,4,600000,525583,"ABS, Airbags",20,4,1
+Ignis,Hatchback,Maruti,Petrol,4,550000,446308,"ABS, Airbags",27,2,0
+Wagon R,Hatchback,Maruti,CNG,3,500000,432983,"CNG, Airbags",34,4,0
+Compass,SUV,Jeep,Diesel,5,2200000,2418391,"Sunroof, Infotainment",47,3,1
+Sonet,SUV,Kia,Diesel,4,1050000,896465,"Infotainment, Rear Camera",37,5,1
+Kiger,SUV,Renault,Petrol,4,700000,578437,Rear Camera,45,3,0
+Venue,SUV,Hyundai,Petrol,4,900000,932999,Infotainment,37,3,1
+Swift,Hatchback,Maruti,Petrol,4,600000,634744,"ABS, Airbags",30,4,1
+Magnite,SUV,Nissan,Petrol,4,750000,643623,Rear Camera,32,3,1
+Seltos,SUV,Kia,Diesel,5,1200000,997956,"Sunroof, Infotainment",37,4,1
+Tiago,Hatchback,Tata,CNG,4,600000,538545,CNG,32,4,1
+Ertiga,MPV,Maruti,CNG,4,1100000,931788,"7-Seater, Infotainment",41,4,1
+Seltos,SUV,Kia,Diesel,5,1200000,1145362,"Sunroof, Infotainment",36,5,0
+Kiger,SUV,Renault,Petrol,4,700000,757385,Rear Camera,39,4,0
+Innova Crysta,MPV,Toyota,Diesel,5,2000000,1753342,"7-Seater, ABS",44,8,1
+Kwid,Hatchback,Renault,Petrol,3,450000,520098,ABS,25,1,0
+Glanza,Hatchback,Toyota,Petrol,5,750000,686715,ABS,36,3,0
+Verna,Sedan,Hyundai,Petrol,5,1300000,1393994,"Infotainment, Sunroof",33,3,1
+Nexon,SUV,Tata,Petrol,5,1000000,903300,Sunroof,35,5,1
+i20,Hatchback,Hyundai,Petrol,5,850000,714925,Infotainment,34,3,0
+Harrier,SUV,Tata,Diesel,5,1800000,1837248,"ADAS, ABS",44,5,0
+Kiger,SUV,Renault,Petrol,4,700000,673883,Rear Camera,37,2,0
+Alto,Hatchback,Maruti,Petrol,3,350000,353718,ABS,27,1,0
+Tiago,Hatchback,Tata,CNG,4,600000,554632,CNG,25,4,0
+XUV700,SUV,Mahindra,Diesel,5,2300000,1992956,"ADAS, Sunroof",37,6,1
+XUV700,SUV,Mahindra,Diesel,5,2300000,1877664,"ADAS, Sunroof",45,6,0
+Nexon,SUV,Tata,Petrol,5,1000000,1095924,Sunroof,27,4,1
+Venue,SUV,Hyundai,Petrol,4,900000,950352,Infotainment,38,5,0
+Compass,SUV,Jeep,Diesel,5,2200000,2080885,"Sunroof, Infotainment",38,5,1
+Celerio,Hatchback,Maruti,Petrol,3,500000,574008,CNG,26,4,0
+Altroz,Hatchback,Tata,Diesel,5,900000,883672,Infotainment,31,4,1
+Glanza,Hatchback,Toyota,Petrol,5,750000,800500,ABS,32,2,1
+Wagon R,Hatchback,Maruti,CNG,3,500000,405289,"CNG, Airbags",35,5,0
+Innova Crysta,MPV,Toyota,Diesel,5,2000000,1671207,"7-Seater, ABS",43,8,1
+Brezza,SUV,Maruti,Petrol,4,950000,1091256,ABS,33,5,0
+Altroz,Hatchback,Tata,Diesel,5,900000,909225,Infotainment,28,4,1
+Jazz,Hatchback,Honda,Petrol,4,800000,894624,Infotainment,30,3,1
+Creta,SUV,Hyundai,Diesel,5,1100000,972413,"Sunroof, ABS",40,5,0
+Ignis,Hatchback,Maruti,Petrol,4,550000,467751,"ABS, Airbags",24,2,0
+Ignis,Hatchback,Maruti,Petrol,4,550000,511797,"ABS, Airbags",27,1,0
+Venue,SUV,Hyundai,Petrol,4,900000,779303,Infotainment,33,5,0
+Nexon,SUV,Tata,Petrol,5,1000000,1102206,Sunroof,33,5,1
+Harrier,SUV,Tata,Diesel,5,1800000,1529826,"ADAS, ABS",36,6,1
+Alto,Hatchback,Maruti,Petrol,3,350000,353642,ABS,29,1,0
+Compass,SUV,Jeep,Diesel,5,2200000,2544307,"Sunroof, Infotainment",41,4,1
+Kiger,SUV,Renault,Petrol,4,700000,756126,Rear Camera,42,4,0
+Fortuner,SUV,Toyota,Diesel,5,3000000,2683653,"4x4, Infotainment",46,7,1
+Punch,SUV,Tata,Diesel,4,850000,959459,Infotainment,30,4,0
+Verna,Sedan,Hyundai,Petrol,5,1300000,1251039,"Infotainment, Sunroof",31,4,0
+Wagon R,Hatchback,Maruti,CNG,3,500000,557792,"CNG, Airbags",25,4,0
+Magnite,SUV,Nissan,Petrol,4,750000,692976,Rear Camera,25,4,1
+Tiago,Hatchback,Tata,CNG,4,600000,633578,CNG,24,2,1
+Alto,Hatchback,Maruti,Petrol,3,350000,328978,ABS,25,3,0
+Alto,Hatchback,Maruti,Petrol,3,350000,397104,ABS,23,1,0
+Celerio,Hatchback,Maruti,Petrol,3,500000,481108,CNG,27,4,0
+Punch,SUV,Tata,Diesel,4,850000,749360,Infotainment,26,5,1
+Fortuner,SUV,Toyota,Diesel,5,3000000,3081832,"4x4, Infotainment",49,6,1
+Ertiga,MPV,Maruti,CNG,4,1100000,988274,"7-Seater, Infotainment",41,4,1
+Kwid,Hatchback,Renault,Petrol,3,450000,537076,ABS,22,2,0
+Magnite,SUV,Nissan,Petrol,4,750000,888774,Rear Camera,31,3,1
+Swift,Hatchback,Maruti,Petrol,4,600000,541327,"ABS, Airbags",27,3,1
+Innova Crysta,MPV,Toyota,Diesel,5,2000000,1908965,"7-Seater, ABS",50,6,1
+Brezza,SUV,Maruti,Petrol,4,950000,900721,ABS,39,3,1
+Venue,SUV,Hyundai,Petrol,4,900000,977738,Infotainment,33,3,0
+Baleno,Hatchback,Maruti,Petrol,4,800000,869082,"Infotainment, ABS",30,2,0
+City,Sedan,Honda,Petrol,5,1200000,1024450,"Sunroof, ABS",32,6,1
+Jazz,Hatchback,Honda,Petrol,4,800000,872622,Infotainment,33,4,0
